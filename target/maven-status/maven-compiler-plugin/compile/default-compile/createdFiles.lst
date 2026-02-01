@@ -1,0 +1,13 @@
+galactic/task/TaskState.class
+galactic/drones/HeavyDrone.class
+galactic/dispatcher/Dispatcher.class
+galactic/bodies/CelestialBody.class
+galactic/cargo/Cargo.class
+galactic/drones/Drone.class
+galactic/task/DeliveryTask.class
+galactic/demo/DemoApp.class
+galactic/drones/LightDrone.class
+galactic/bodies/Planet.class
+galactic/dispatcher/Result.class
+galactic/drones/DroneStatus.class
+galactic/bodies/SpaceStation.class
